@@ -99,6 +99,9 @@ config.json
 threshold	        模板匹配阈值
 cooldown_sec	    提醒冷却时间（秒）
 mode	            both / success / fail
+
+```
+
 ---
 
 ##  ⚠️ 注意事项
